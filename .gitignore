@@ -1,0 +1,7 @@
+__pycache__/
+*.zip
+python/
+layer/
+.venv/
+.idea/
+.env
